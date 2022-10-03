@@ -1,1 +1,1 @@
-This is a new Ubunt/focal64 provider
+This is a new Ubuntu/focal64 provider
